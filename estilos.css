@@ -1,0 +1,17 @@
+.estrofeTipo1 {
+	font-size: 15px;
+	align-content: center;
+	font-family: serif;
+}
+
+.estrofeTipo2 {
+	font-size: 10px;
+	align-content: flex-start;
+	font-family: fantasy;
+}
+
+.estrofeTipo3 {
+	font-size: 20px;
+	align-content: flex-end;
+	font-family: monospace;
+}
